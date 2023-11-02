@@ -19,7 +19,7 @@ pared to a threshold value known to be associated with CHD. For example:
 a systolic blood pressure above 160 mm Hg is known to be a risk factor
 for CHD, and all the people with a blood pressure above the treshold were
 marked as having blood pressure as a risk factor. 73 % of men and 67 % of
-women showed at least one attribute exceeding the threshold cut-o, making
+women showed at least one attribute exceeding the threshold cut-off, making
 the researchers conclude that the population have a high prevalence of CHD
 risk factors, that could explain the high CHD prevalence. <br>
 
