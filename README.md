@@ -30,7 +30,7 @@ risk factors, that could explain the high CHD prevalence. <br>
 <br>
 
 **Project 2** <br>
-1. Linear regression using numpy and optimization <br>
+1. Linear regression using numpy and parameter optimization <br>
 2. Regression using Artificial Neural Network in numpy. Optimization using 2-level, 10-fold cross-validation <br>
 3. Classification using Artificial Neural Network in numpy. Optimization using 2-level, 10-fold cross-validation <br>
 
