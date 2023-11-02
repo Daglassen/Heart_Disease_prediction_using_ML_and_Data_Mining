@@ -2,7 +2,7 @@
 
 **Machine Learning Project on South African coronary heart disease dataset** <br>
 
-**Abstract** <br>
+**From Abstract** <br>
 Data was obtained from Stanford.edu.. This data is a retrospective sample
 gathered from a original dataset gathered and presented by Roussowet al.1.
 The next paragraphs goes through the data in detail: 1) what the data
